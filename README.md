@@ -1,4 +1,4 @@
-# silver_app_bar
+# Silver Cat Swiper
 
 A new Flutter project.
 
