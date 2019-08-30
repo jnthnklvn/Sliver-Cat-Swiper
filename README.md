@@ -1,6 +1,6 @@
 # Silver Cat Swiper
 
-A new Flutter project.
+![](20190830_014947.gif)
 
 ## Getting Started
 
